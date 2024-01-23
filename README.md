@@ -7,17 +7,7 @@
     <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/sorting-visualizer?style=for-the-badge"></a>
   </div>
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="./public/images/cell.png" alt="cover" /></a>
-<br/>
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="./public/images/bar.png" alt="cover" /></a>
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/">See it in
-action</a>
-
-</div>
-
----
 
 ### This repo is an attempt to help in learning popular sorting algorithms by visualization
 
